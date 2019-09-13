@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 6: September 12th, Thursday
+
+**Today's Progress**: wrote a script to build a password manager to store passwords(a terrible idea, but a good exercise nonethless
+
+**Thoughts** Practiced using argparse to run functions in CLI (again, with this function)
+
 
 ### Day 2: September 8th, Sunday
 
