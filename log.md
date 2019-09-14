@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 7: September 13th, Friday
+
+**Today's Progress**: edited password manager to also be able to generate passwords randomly and then store them for later  
+
+**Thoughts** the password generator was similar to a project we had in data analysis bootcamp; the difference here is simply combining it with the password manager to store the random password for later.  
+
+**Link(s) to work**
+https://github.com/dedds001/100-days-of-code/blob/master/storepw.py
 
 ### Day 6: September 12th, Thursday
 
