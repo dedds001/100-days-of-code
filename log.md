@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### Day 7: September 25th, Wednesday
+
+**Today's Progress**: created a notebook in databricks to practice using various functions in pyspark (split, explode, row, etc)
+
+
+
 ### Day 7: September 13th, Friday
 
 **Today's Progress**: edited password manager to also be able to generate passwords randomly and then store them for later  
