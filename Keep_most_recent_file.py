@@ -10,7 +10,6 @@ keeps the most recent and moves the rest to an archive folder.
 """
 import argparse
 import sys 
-import pandas as pd 
 import os 
 from os import listdir
 from os.path import isfile, join
