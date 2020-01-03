@@ -17,9 +17,9 @@ from os.path import isfile, join
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--filepath', type =str, default = '/files/',
+    parser.add_argument('--filepath', type =str, default = 'files/',
                         help ='What is the filepath of the directory?')
-    parser.add_argument('--filepath2', type =str, default = '/files_archive/',
+    parser.add_argument('--filepath2', type =str, default = 'files_archive/',
                         help ='What is the filepath of the new directory?')
     args = parser.parse_args()
     sys.stdout.write(str(add_asterisk(args)))
