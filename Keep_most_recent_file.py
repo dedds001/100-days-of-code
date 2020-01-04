@@ -26,7 +26,7 @@ def main():
  
 
    
-def add_asterisk(args):
+def archive_old_files(args):
     onlyfiles = [f for f in listdir(args.filepath) if isfile(join(args.filepath, f))]
     onlyfiles.sort(reverse = True)
     if len(onlyfiles) > 1:
