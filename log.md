@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
-### Day 7: September 25th, Wednesday
+
+### Day 13: January 3rd, Friday
+**Today's Progress**: shared script designed parse through a list of csv files, format them using pd.melt and then concatenate or append them to one file, outputting a single csv with all the records combined.  
+Link to script: https://github.com/dedds001/100-days-of-code/blob/master/format_concat_br.py
+Link to dataset:  https://www.kaggle.com/volpatto/temperature-timeseries-for-some-brazilian-cities
+
+### Day 12: January 2nd, Thursday
+**Today's Progress**: shared script designed to keep most recent file.  
+Link to script:  https://github.com/dedds001/100-days-of-code/blob/master/Keep_most_recent_file.py
+
+
+### Day 11: January 1st, Wednesday
+
+**Today's Progress**: shared post about f-strings and string formatting
+
+### Day 10: December 31st, Tuesday
+
+**Today's Progress**: Watch Pytorch Tutorial, practiced code in jupyter notebook.
+
+### Day 9: December 30th, Monday
+
+**Today's Progress**: committed to #dailycoding challenge
+
+### Day 8: September 25th, Wednesday
 
 **Today's Progress**: created a notebook in databricks to practice using various functions in pyspark (split, explode, row, etc)
 
