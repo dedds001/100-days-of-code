@@ -3,7 +3,8 @@
 ### Day 13: January 3rd, Friday
 **Today's Progress**: shared script designed parse through a list of csv files, format them using pd.melt and then concatenate or append them to one file, outputting a single csv with all the records combined.  
 Link to script: https://github.com/dedds001/100-days-of-code/blob/master/format_concat_br.py
-\nLink to dataset:  https://www.kaggle.com/volpatto/temperature-timeseries-for-some-brazilian-cities
+
+Link to dataset:  https://www.kaggle.com/volpatto/temperature-timeseries-for-some-brazilian-cities
 
 ### Day 12: January 2nd, Thursday
 **Today's Progress**: shared script designed to keep most recent file.  
