@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 16 & 17: January 6th-7th, Monday and Tuesday
+**Today's Progress**: Followed Pytorch Tutorial to build a neural network, ran data through it
+Link to script: https://github.com/dedds001/100-days-of-code/blob/master/Pytorch_Tutorial.ipynb
+
+
+
+
 ### Day 14 & 15: January 4th-5th, Saturday and Sunday
 **Today's Progress**: continued work on a Jupyter Notebook with graphs to visualize data from the Brazilian Cities monthly temperature data.
 Link to script: https://github.com/dedds001/100-days-of-code/blob/master/format_concat_br.py
