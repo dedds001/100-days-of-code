@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 10th, Friday
+**Today's Progress**: Followed a Tutorial on Neural Networks using a dataset from Kaggle (CatsVDogs). This tutorial was basical how to prepare the data for training
+Link to script: https://github.com/dedds001/100-days-of-code/blob/master/Pytorch_Covnet_Tutorial.ipynb
+
+
+### Day 18: January 9th, Thursday
+**Today's Progress**: Followed a Pytorch Tutorial on Neural Networks, trained on the MNIST dataset 
+Link to script: https://github.com/dedds001/100-days-of-code/blob/master/Pytorch_Tutorial_part2.ipynb
+
+
+### Day 18: January 8th, Wednesday
+**Today's Progress**: Followed a Tutorial on Backpropagation in a neural network
+
+
 ### Day 16 & 17: January 6th-7th, Monday and Tuesday
 **Today's Progress**: Followed Pytorch Tutorial to build a neural network, ran data through it
 Link to script: https://github.com/dedds001/100-days-of-code/blob/master/Pytorch_Tutorial.ipynb
