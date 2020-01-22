@@ -1,7 +1,49 @@
 # 100 Days Of Code - Log
 
+### Day 26: January 21st, Tuesday
+**Today's Progress**: Followed tutorial to build the K Nearest Neighbors model from scratch in python (as well as with sklearn) 
+Link to script: https://github.com/dedds001/100-days-of-code/blob/master/K_nearest_neighbors_from_scratch.ipynb
+
+### Day 25: January 20th, Monday
+**Today's Progress**: Followed tutorial on classification fo K-nearest neighbors 
+Link to tutorial: https://www.youtube.com/watch?v=44jq6ano5n0&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=13
+
+### Day 26-27: January 18th-19th, Saturday/Sunday
+**Today's Progress**:Reviewed tutorials on machine learning
+
+
+### Day 25: January 17th, Friday
+**Today's Progress**: Followed tutorial building the best fit line in python 
+Link to script: https://github.com/dedds001/100-days-of-code/blob/master/Best_fit_slope_from_scratch.ipynb
+
+### Day 24: January 16th, Thursday
+**Today's Progress**: Followed tutorial on pickling and unpickling in python
+Link to tutorial:  https://www.datacamp.com/community/tutorials/pickle-python-tutorial
+
+### Day 23: January 15th, Wednesday
+**Today's Progress**: Applied the model for linear regression using sklearn on temperature data from Brazilian cities.
+Link to script: https://github.com/dedds001/100-days-of-code/blob/master/Salvador_Temperature_Forecast.ipynb
+
+
+### Day 22: January 14th, Tuesday
+**Today's Progress**: Researched graph databases and their uses
+Link to research : https://neo4j.com/blog/why-graph-databases-are-the-future/
+
+### Day 21: January 13th, Monday
+**Today's Progress**: Built a model for linear regression using sklearn on stock prices for google based on tutorial from sentdex.
+Link to script: https://github.com/dedds001/100-days-of-code/blob/master/Python_Machine_Learning.ipynb
+
+
+### Day 20 & 21: January 11th/12th, Saturday and Sunday
+**Today's Progress**: Followed a Tutorial on Neural Networks using a dataset from Kaggle (CatsVDogs).  This time, the tutorial demonstrated passing data through a Neural Network
+Link to script: https://github.com/dedds001/100-days-of-code/blob/master/Pytorch_Covnet_Tutorial_part2.ipynb
+
+
+
+
+
 ### Day 19: January 10th, Friday
-**Today's Progress**: Followed a Tutorial on Neural Networks using a dataset from Kaggle (CatsVDogs). This tutorial was basical how to prepare the data for training
+**Today's Progress**: Followed a Tutorial on Neural Networks using a dataset from Kaggle (CatsVDogs). This tutorial was basically how to prepare the data for training
 Link to script: https://github.com/dedds001/100-days-of-code/blob/master/Pytorch_Covnet_Tutorial.ipynb
 
 
